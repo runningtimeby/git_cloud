@@ -1,0 +1,12 @@
+debug/main.o
+debug/mainwindow.o
+debug/myreceivedata.o
+debug/mydevice.o
+debug/myanalysis.o
+debug/mymethod.o
+debug/qrc_img.o
+debug/moc_mainwindow.o
+debug/moc_myreceivedata.o
+debug/moc_mydevice.o
+debug/moc_myanalysis.o
+debug/moc_mymethod.o

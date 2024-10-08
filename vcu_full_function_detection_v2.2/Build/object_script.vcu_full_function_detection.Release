@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/myreceivedata.o
+release/mydevice.o
+release/myanalysis.o
+release/mymethod.o
+release/qrc_img.o
+release/moc_mainwindow.o
+release/moc_myreceivedata.o
+release/moc_mydevice.o
+release/moc_myanalysis.o
+release/moc_mymethod.o
