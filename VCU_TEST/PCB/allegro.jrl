@@ -1,0 +1,226 @@
+\t (00:00:04) allegro 17.2 S058 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Jun 24 15:26:44 2024
+\t (00:00:04)         Host=DESKTOP-AL5VB7K User=ZH Pid=22368 CPUs=12
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\ZH\Desktop\std_stm32\PCB\backup.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged backup
+\d (00:00:07) Design opened: C:/Users/ZH/Desktop/std_stm32/PCB/backup.brd
+\i (00:00:07) trapsize 155000
+\i (00:00:07) trapsize 159393
+\i (00:00:07) trapsize 155000
+\i (00:00:07) trapsize 155000
+\i (00:00:07) generaledit 
+\i (00:00:13) reports 'Dangling Lines, Via and Antenna Report' 
+\i (00:00:14) generaledit 
+\i (00:00:20) zoom center 
+\t (00:00:20) Pick center for the new display.
+\i (00:00:20) pick 7925.000,1590.000 
+\t (00:00:20) last pick:  7925.000 1590.000
+\i (00:00:20) trapsize 155000
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 3485.629 6813.515
+\i (00:00:30) trapsize 77500
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 3594.129 6844.516
+\i (00:00:30) trapsize 38750
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 3594.130 6844.516
+\i (00:00:31) trapsize 19375
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 3598.005 6836.766
+\i (00:00:31) trapsize 9688
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 3487.568 6639.141
+\i (00:00:31) trapsize 19375
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 3487.567 6577.141
+\i (00:00:31) trapsize 38750
+\i (00:00:59) fillin "menu_cancel"
+\t (00:01:19) INFO (HELPAPI-006): Default tag used
+\t (00:01:20) INFO (HELPAPI-006): Default tag used
+\i (00:01:28) setwindow text
+\i (00:01:28) close
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 1883.313 6189.640
+\i (00:01:30) trapsize 77500
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 1883.313 6189.640
+\i (00:01:30) trapsize 155000
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -4388.394 6096.640
+\i (00:01:30) trapsize 310001
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 4012.616 -38.493
+\i (00:01:30) trapsize 310001
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 4818.617 -1030.495
+\i (00:01:30) trapsize 310001
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 4942.618 -1092.496
+\i (00:01:30) trapsize 310001
+\i (00:01:44) reports 
+\i (00:01:44) QtSignal StdRep StdRepAvailableReports currentRowChanged 0
+\i (00:01:45) generaledit 
+\i (00:01:53) QtSignal StdRep StdRepNewEditButton clicked
+\i (00:01:56) QtSignal ExtractUI ExtractUITabs currentChanged Properties
+\i (00:01:59) QtSignal ExtractUIQualifierBox ExtractUINoneQualifier toggled off
+\i (00:01:59) QtSignal ExtractUIQualifierBox ExtractUIViaQualifier toggled on
+\i (00:02:08) QtSignal ExtractUIQualifierBox ExtractUIViaQualifier toggled off
+\i (00:02:08) QtSignal ExtractUIQualifierBox ExtractUINoneQualifier toggled on
+\i (00:02:12) QtSignal StdRep StdRepAvailableReports currentRowChanged -1
+\i (00:04:12) QtSignal StdRep StdRepAvailableReports currentRowChanged 8
+\i (00:04:12) QtSignal StdRep StdRepAvailableReports itemSelectionChanged "Dangling Lines, Via and Antenna Report"
+\i (00:04:12) QtSignal StdRep StdRepAvailableReports itemDoubleClicked "Dangling Lines, Via and Antenna Report"
+\i (00:04:14) QtSignal StdRep StdRepNewEditButton clicked
+\i (00:04:19) QtSignal ExtractUI ExtractUITabs currentChanged Properties
+\i (00:04:20) QtSignal ExtractUIQualifierBox ExtractUINoneQualifier toggled off
+\i (00:04:20) QtSignal ExtractUIQualifierBox ExtractUIViaQualifier toggled on
+\i (00:04:29) QtSignal ExtractUI ExtractUIOkButton clicked
+\i (00:04:35) QtSignal StdRep StdRepLoadButton clicked
+\i (00:04:38) QtFillin 
+\i (00:04:39) QtSignal StdRep StdRepGenerateButton clicked
+\i (00:04:39) setwindow text
+\i (00:04:39) stick
+\i (00:04:39) setwindow text
+\i (00:04:39) stick
+\i (00:04:48) setwindow text
+\i (00:04:48) close
+\i (00:04:53) setwindow text
+\i (00:04:53) close
+\i (00:04:55) QtSignal StdRep StdRepGenerateButton clicked
+\i (00:04:55) setwindow text
+\i (00:04:55) stick
+\i (00:04:55) setwindow text
+\i (00:04:55) stick
+\i (00:05:14) setwindow text
+\i (00:05:14) close
+\i (00:05:17) setwindow text
+\i (00:05:17) close
+\i (00:05:19) QtSignal StdRep StdRepNewEditButton clicked
+\i (00:05:22) QtSignal ExtractUI ExtractUITabs currentChanged Properties
+\i (00:05:35) QtSignal ExtractUIMiscTab ExtractUIGroupList currentRowChanged 0
+\i (00:05:35) QtSignal ExtractUI ExtractUITabs currentChanged Miscellaneous
+\i (00:05:43) zoom in 1 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom in -141.392 5231.517
+\i (00:05:43) trapsize 155000
+\i (00:05:43) zoom in 1 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom in -6341.405 5262.517
+\i (00:05:43) trapsize 77500
+\i (00:05:43) zoom in 1 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom in -6341.406 5278.017
+\i (00:05:43) trapsize 38750
+\i (00:05:54) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:05:56) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:05:57) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out -3535.900 3387.013
+\i (00:05:57) trapsize 77500
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out -3551.400 3371.514
+\i (00:05:57) trapsize 155000
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out 4849.618 3309.513
+\i (00:05:57) trapsize 310001
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out 22240.652 -10206.514
+\i (00:05:57) trapsize 310001
+\i (00:06:03) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in 1284.610 8827.524
+\i (00:06:04) trapsize 155000
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -5907.404 9075.525
+\i (00:06:04) trapsize 77500
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -5953.904 9091.025
+\i (00:06:04) trapsize 38750
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in 1718.612 8579.524
+\i (00:06:04) trapsize 19375
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 1319.487 8606.649
+\i (00:06:05) trapsize 9688
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 1305.925 8620.212
+\i (00:06:05) trapsize 4844
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 851.580 8568.869
+\i (00:06:05) trapsize 2422
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 849.158 8568.869
+\i (00:06:05) trapsize 1211
+\i (00:06:06) zoom out 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom out 857.150 8563.784
+\i (00:06:06) trapsize 2422
+\i (00:06:06) zoom out 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom out 877.978 8535.690
+\i (00:06:06) trapsize 4844
+\i (00:06:07) pick grid 868.290 8648.065
+\t (00:06:07) last pick:  868.000 8648.000
+\i (00:06:12) setwindow form.find
+\i (00:06:12) FORM find all_off  
+\i (00:06:13) FORM find vias YES 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) prepopup 717.164 8643.221
+\i (00:06:31) pick grid 951.603 8702.315
+\t (00:06:31) last pick:  952.000 8702.000
+\i (00:06:36) ncdrill customization 
+\i (00:06:36) generaledit 
+\i (00:06:46) setwindow form.nc_drillcustomization
+\i (00:06:46) FORM nc_drillcustomization cancel  
+\i (00:06:50) setwindow pcb
+\i (00:06:50) artwork 
+\w (00:06:50) Artwork will be rounded down because the database is in MILS with precision 3 requiring artwork precision of 7 decimal places, which is greater than the maximum of 6. Rounding down might result in inaccurate arc coordinates in the output files and possible shape/void plotting failures. For raster artwork formats, artwork accuracy must be at least one place greater than the database accuracy, up to the maximum accuracy allowed by the selected output format. Use GDSII or IPC2581 manufacturing format that support the level of database accuracy set.
+\i (00:06:52) fillin confirm
+\i (00:06:55) setwindow form.film_control
+\i (00:06:55) FORM film_control cancel  
+\i (00:06:55) setwindow pcb
+\i (00:06:55) generaledit 
+\i (00:07:02) ncdrill customization 
+\i (00:07:02) generaledit 
+\i (00:07:07) setwindow form.nc_drillcustomization
+\i (00:07:07) FORM nc_drillcustomization report  
+\i (00:07:09) setwindow form.nc_drillreport
+\i (00:07:09) FORM nc_drillreport close  
+\i (00:07:09) setwindow pcb
+\i (00:07:09) generaledit 
+\i (00:07:12) setwindow form.nc_drillcustomization
+\i (00:07:12) FORM nc_drillcustomization drillgrid cell 1,1 
+\i (00:07:14) FORM nc_drillcustomization cancel  
+\i (00:07:14) setwindow pcb
+\i (00:07:14) exit 
+\e (00:07:14) Do you want to save the changes you made to backup.brd?
+\i (00:07:16) fillin no 
+\e (00:07:17) Program has encountered a problem and must exit. The design will be saved as a .SAV file that can be recovered using dbdoctor (if applicable). To resolve problem, first obtain the latest software update from Cadence and if the problem persists contact Cadence Customer Support. In addition to the data Cadence support requests; please provide the MiniDump files found in folder "C:/Users/ZH/Desktop/std_stm32/PCB".
+\i (00:07:19) fillin confirm

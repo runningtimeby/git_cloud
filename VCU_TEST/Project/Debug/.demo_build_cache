@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\ZH\Desktop\VCU_TEST\Project\Debug\Exe\demo.out</Path>
+            <Output>
+                <Path>C:\Users\ZH\Desktop\VCU_TEST\Project\Debug\List\demo.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\ectek\Desktop\work\code\vcu\test_board\std_stm32\Project\Debug\Exe\demo.out</Path>
+            <Output>
+                <Path>C:\Users\ectek\Desktop\work\code\vcu\test_board\std_stm32\Project\Debug\List\demo.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\admin\Desktop\VCU_TEST\Project\Debug\Exe\demo.out</Path>
+            <Output>
+                <Path>C:\Users\admin\Desktop\VCU_TEST\Project\Debug\List\demo.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\ZH\Desktop\std_stm32\Project\Debug\Exe\demo.out</Path>
+            <Output>
+                <Path>C:\Users\ZH\Desktop\std_stm32\Project\Debug\List\demo.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\admin\Desktop\TEST_Project\VCU_TEST\Project\Debug\Exe\demo.out</Path>
+            <Output>
+                <Path>C:\Users\admin\Desktop\TEST_Project\VCU_TEST\Project\Debug\List\demo.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
